@@ -19,5 +19,5 @@ export default function Home() {
         <Image src={Hero} alt="" className={styles.img} />
       </div>
     </div>
-  );
+  )
 }

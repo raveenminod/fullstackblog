@@ -13,7 +13,7 @@ const Footer = () => {
         <Image src="/4.png" width={15} height={15} className={styles.icon} alt='Social Icon' />
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default Footer
+export default Footer;
