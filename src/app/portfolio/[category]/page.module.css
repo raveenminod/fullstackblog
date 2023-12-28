@@ -11,6 +11,10 @@
     margin-bottom: 100px;
 }
 
+.item:nth-child(3){
+    flex-direction: row-reverse;
+}
+
 .imgContainer {}
 
 .imgContainer {
@@ -29,4 +33,12 @@
     flex-direction: column;
     gap: 20px;
     justify-content: center;
+}
+
+.title{
+    font-size: 40px;
+}
+
+.desc{
+    font-size: 20px;
 }
